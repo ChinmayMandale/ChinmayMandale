@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)   -->
 # Chinmay Mandale
 
-### Howdy!👋🤠
+### Howdy!🤠
 
 🎓 I am a recent Computer Science Grad from the University of Texas at Arlington <br>
 ✈️ I love to travel, hike, kayak, and listening to podcasts <br>
